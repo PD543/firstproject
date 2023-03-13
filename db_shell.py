@@ -3,6 +3,7 @@
 # this file is not automatically generated, we need to create this file, as on console we cannot store the query and its result
 
 from app1.models import Person
+as;ldasd;asda;sdlsad;asad
 
 # Objs = Person.objects.all() #so to run this we need run a command - as this is related to django framework and not directly to python
 
