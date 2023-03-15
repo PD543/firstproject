@@ -26,4 +26,8 @@ def akshay():
 akshay()
 =======
 akshay is an senior python developer having 13 lpa. he is from nashik
+<<<<<<< HEAD
 >>>>>>> fd2c621e3074c66d766e2f4a986bc1b4235c8f4b
+=======
+vikram is an senior oython developer
+>>>>>>> 2fd88717c587d586b72133ab0ff9114080dd0de2
