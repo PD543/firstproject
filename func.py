@@ -20,6 +20,10 @@
 # f
 # setfsdfsdfs
 
+<<<<<<< HEAD
 def akshay():
     pass
 akshay()
+=======
+akshay is an senior python developer having 13 lpa. he is from nashik
+>>>>>>> fd2c621e3074c66d766e2f4a986bc1b4235c8f4b
