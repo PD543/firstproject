@@ -1,21 +1,22 @@
-def fun():
-    pass
-fun()
-hjh
+# def fun():
+#     pass
+# fun()
+# hjh
 
 
-=======
-def func3():
-    pass
-fun()
-asda
->>>>>>> 14bbb5d336dce3d67d1ebb1303e157625cfbeb2d
+# =======
+# def func3():
+#     pass
+# fun()
+# asda
+# >>>>>>> 14bbb5d336dce3d67d1ebb1303e157625cfbeb2d
 
-<<<<<<< HEAD
+# <<<<<<< HEAD
 
-def main():
-    apasd
+# def main():
+#     apasd
 
-ada;dk()
-f
-setfsdfsdfs
+# ada;dk()
+# f
+# setfsdfsdfs
+
